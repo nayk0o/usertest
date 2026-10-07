@@ -1,4 +1,3 @@
-```
 local HttpService = game:GetService("HttpService")
 local TweenService = game:GetService("TweenService")
 local TeleportService = game:GetService("TeleportService")
@@ -382,4 +381,3 @@ end)
 
 MakeDraggable(MainFrame)
 MakeDraggable(HideShow)
-```
